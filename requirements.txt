@@ -1,0 +1,4 @@
+pyspellchecker
+deep-translator
+Pillow
+pygame
